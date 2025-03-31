@@ -1,5 +1,5 @@
 # SAR-AIS-matching-dataset
-SAR-AIS matching dataset, A dataset for SAR-AIS matching, enabling accurate matching of vessel targets in SAR images with AIS data.
+SAR-AIS matching dataset, a dataset for SAR-AIS matching, enabling accurate matching of vessel targets in SAR images with AIS data.
 
 You can download from the link below.
 
