@@ -12,6 +12,6 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11173937.
 # 2024.9.11 
 S1A_IW_GRDH_1SDV_20240911T053224_20240911T053249_055613_06C9F9_95A7.SAFE (Sentinel-1 SAR)
 
-<img width="631" height="414" alt="image" src="https://github.com/user-attachments/assets/9b0f6671-4752-42eb-a88f-29e814aede3d" />
+<img width="631" height="514" alt="image" src="https://github.com/user-attachments/assets/9b0f6671-4752-42eb-a88f-29e814aede3d" />
 
 
